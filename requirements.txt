@@ -1,0 +1,8 @@
+Django
+gunicorn
+matplotlib
+mysql-connector-python 
+mysqlclient 
+numpy==1.19.0 
+pandas
+django-cors-headers
